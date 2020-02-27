@@ -21,6 +21,7 @@ Analyze business growth by measuring popular Metrics as below.
 *   Churn Rate
 *   Customer Lifetime Value (LTV)
 *   Monthly Repeat Customers
+*   Trending Products
 *   Others
 
 References:
