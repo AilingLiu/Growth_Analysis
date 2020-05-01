@@ -1,6 +1,6 @@
 Use google sheet to analyze Netflix users data, to recommend next video after users finishing the videos.
 
-This document contains contains 4 sheets
+This document contains 4 sheets
 - raw data
 - descriptive statistics
 - video analysis
