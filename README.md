@@ -22,6 +22,7 @@ Analyze business growth by measuring popular Metrics as below.
 *   Customer Lifetime Value (LTV)
 *   Monthly Repeat Customers
 *   Trending Products
+*   Revenue Reports by Sales and Region in Excel
 *   Others
 
 References:
