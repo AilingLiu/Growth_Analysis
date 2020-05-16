@@ -76,3 +76,31 @@ Result: we can now build the game
 
 ### others
 - do ab testing on the store
+
+https://www.ironsrc.com/blog/idle-incremental-games/
+
+### Who plays incremental games?
+Nate and his team discovered that the audience for idle games tends to be male, between the ages of 18-44, and lives in the US and Western Europe.
+
+### Why are idle games so popular?
+Nate says, “idle games scratch an itch that players have.” They’re addictive because of their exponential return of investment - users love when games provide them with both collectability and completionism.
+
+### How can you monetize incremental games?
+“Always try to maintain a high star rating and D1 retention. Once you’re able to keep players around for longer, you’ll be able to try different and more creative monetization strategies.”
+
+Ensure that consuming ads is both easy and desirable. One way of doing this, as suggested by Nate, is to set up a rewarded video experience, which is thoroughly integrated into the gameplay. In fact, Kolibri’s players watch anywhere between 8 and 9 ads a day - an impressive number.
+
+Monetization levers like time manipulation and payout multipliers.
+
+Turning a user pain point into a reward is a much more effective way to monetize your users.
+
+Your CPI bid will be different according to each advertised app’s ROI.
+
+Keep in mind that the price of your bid shouldn’t come from thin air. For example, Kolibri calculates their bids by **looking at ad monetization at the player level**. Much like ironSource’s user level ad revenue solution, this enables Kolibri to compute a more complete player level LTV, which combines IAPs and ads.
+
+ Kolibri works with our in-house creative Playworks studio to design and test their creatives. Playable ads highlight the most enjoyable features of a game - basically a “try before you buy” type ad unit - letting users interact with the main features of an app before they choose to install it.
+
+ Kolibri recommend running playables that are reasonably close to your gameplay, highlighting features that players tend to enjoy most, while skipping the wait times that are standard within mobile idle games.
+
+###Where are idle games headed in 2019?
+Already, we’re seeing genres in the mobile game industry consolidating, such as the convergence of hyper-casual and casual games.
