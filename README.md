@@ -29,6 +29,7 @@ References:
 -  [18 SaaS Metrics and KPIs Every Company Should](https://databox.com/metrics-every-saas-company-should-track#MUV)
 -  [Know Your Metrics](https://towardsdatascience.com/data-driven-growth-with-python-part-1-know-your-metrics-812781e66a5b?gi=7fa477868739)
 -  [Hands-On Data Science for Marketing](https://learning.oreilly.com/library/view/hands-on-data-science/9781789346343/)
+-  [Datamcamp Marketing Analytics with Python](https://learn.datacamp.com/skill-tracks/marketing-analytics-with-python)
  
  Data Source:
 - [Bank Marketing Data Set](https://archive.ics.uci.edu/ml/datasets/bank+marketing#)
